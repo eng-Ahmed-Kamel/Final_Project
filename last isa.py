@@ -1,3 +1,4 @@
+# This is the final project at SIC.
 import tkinter as tk
 import json
 from tkinter import messagebox,simpledialog,ttk
